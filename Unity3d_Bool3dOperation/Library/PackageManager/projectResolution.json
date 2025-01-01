@@ -1,0 +1,248 @@
+{
+  "context": {
+    "projectPath": "I:/Unity3d_WorkWithMesh/!Unity3d_Булевые операции крайние версии алгоритма_200523/Unity3d_Булевые операции с 3д объектом_Обновление алгоритма/Packages",
+    "unityVersion": "6000.0.28f1"
+  },
+  "inputs": [
+    "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Packages\\manifest.json",
+    "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Packages\\packages-lock.json"
+  ],
+  "outputs": {
+    "com.unity.ide.visualstudio@2.0.22": {
+      "name": "com.unity.ide.visualstudio",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.ide.visualstudio",
+      "fingerprint": "8140e851d83e922ca2021b04a89519de94ebe38c",
+      "editorCompatibility": "2019.4.25f1",
+      "version": "2.0.22",
+      "source": "registry"
+    },
+    "com.unity.multiplayer.center@1.0.0": {
+      "name": "com.unity.multiplayer.center",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.multiplayer.center",
+      "fingerprint": "f502d8ac613fa076192423e73892fbd89eb4049b",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.accessibility@1.0.0": {
+      "name": "com.unity.modules.accessibility",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.accessibility",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.ai@1.0.0": {
+      "name": "com.unity.modules.ai",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.ai",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.androidjni@1.0.0": {
+      "name": "com.unity.modules.androidjni",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.androidjni",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.animation@1.0.0": {
+      "name": "com.unity.modules.animation",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.animation",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.assetbundle@1.0.0": {
+      "name": "com.unity.modules.assetbundle",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.assetbundle",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.audio@1.0.0": {
+      "name": "com.unity.modules.audio",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.audio",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.cloth@1.0.0": {
+      "name": "com.unity.modules.cloth",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.cloth",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.director@1.0.0": {
+      "name": "com.unity.modules.director",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.director",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.imageconversion@1.0.0": {
+      "name": "com.unity.modules.imageconversion",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.imageconversion",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.imgui@1.0.0": {
+      "name": "com.unity.modules.imgui",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.imgui",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.jsonserialize@1.0.0": {
+      "name": "com.unity.modules.jsonserialize",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.jsonserialize",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.particlesystem@1.0.0": {
+      "name": "com.unity.modules.particlesystem",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.particlesystem",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.physics@1.0.0": {
+      "name": "com.unity.modules.physics",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.physics",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.physics2d@1.0.0": {
+      "name": "com.unity.modules.physics2d",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.physics2d",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.screencapture@1.0.0": {
+      "name": "com.unity.modules.screencapture",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.screencapture",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.terrain@1.0.0": {
+      "name": "com.unity.modules.terrain",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.terrain",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.terrainphysics@1.0.0": {
+      "name": "com.unity.modules.terrainphysics",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.terrainphysics",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.tilemap@1.0.0": {
+      "name": "com.unity.modules.tilemap",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.tilemap",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.ui@1.0.0": {
+      "name": "com.unity.modules.ui",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.ui",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.uielements@1.0.0": {
+      "name": "com.unity.modules.uielements",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.uielements",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.umbra@1.0.0": {
+      "name": "com.unity.modules.umbra",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.umbra",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unityanalytics@1.0.0": {
+      "name": "com.unity.modules.unityanalytics",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.unityanalytics",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequest@1.0.0": {
+      "name": "com.unity.modules.unitywebrequest",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.unitywebrequest",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequestassetbundle@1.0.0": {
+      "name": "com.unity.modules.unitywebrequestassetbundle",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.unitywebrequestassetbundle",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequestaudio@1.0.0": {
+      "name": "com.unity.modules.unitywebrequestaudio",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.unitywebrequestaudio",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequesttexture@1.0.0": {
+      "name": "com.unity.modules.unitywebrequesttexture",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.unitywebrequesttexture",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequestwww@1.0.0": {
+      "name": "com.unity.modules.unitywebrequestwww",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.unitywebrequestwww",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.vehicles@1.0.0": {
+      "name": "com.unity.modules.vehicles",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.vehicles",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.video@1.0.0": {
+      "name": "com.unity.modules.video",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.video",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.vr@1.0.0": {
+      "name": "com.unity.modules.vr",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.vr",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.wind@1.0.0": {
+      "name": "com.unity.modules.wind",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.wind",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.xr@1.0.0": {
+      "name": "com.unity.modules.xr",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.xr",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.subsystems@1.0.0": {
+      "name": "com.unity.modules.subsystems",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.subsystems",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.hierarchycore@1.0.0": {
+      "name": "com.unity.modules.hierarchycore",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.modules.hierarchycore",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.test-framework@1.4.5": {
+      "name": "com.unity.test-framework",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.test-framework",
+      "fingerprint": "0a21eb82d95cd331643a1e0ce4e8e9a5f18954c8",
+      "editorCompatibility": "2019.4.0a10",
+      "version": "1.4.5",
+      "source": "registry"
+    },
+    "com.unity.ext.nunit@2.0.5": {
+      "name": "com.unity.ext.nunit",
+      "resolvedPath": "I:\\Unity3d_WorkWithMesh\\!Unity3d_Булевые операции крайние версии алгоритма_200523\\Unity3d_Булевые операции с 3д объектом_Обновление алгоритма\\Library\\PackageCache\\com.unity.ext.nunit",
+      "fingerprint": "60ef35ffd3cd5e2f5c8887a4a4ca6148854cd092",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.0.5",
+      "source": "registry"
+    }
+  }
+}
